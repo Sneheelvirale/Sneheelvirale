@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sneheel Virale</h1>
+<h1 align="center">Sneheel Virale</h1>
 <h3 align="center">Software Developer | Open Source Contributor | Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneheelvirale&label=Profile%20views&color=0e75b6&style=flat" alt="sneheelvirale" /> </p>

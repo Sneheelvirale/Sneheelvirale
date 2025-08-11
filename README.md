@@ -1,4 +1,4 @@
-![logo(https://github.com/Sneheelvirale/Sneheelvirale/blob/main/Creative%20Portfolio%20Presentation%20Template.png)
+![logo](https://github.com/Sneheelvirale/Sneheelvirale/blob/main/Creative%20Portfolio%20Presentation%20Template.png)
 <h1 align="center">Sneheel Virale</h1>
 <h3 align="center">Software Developer | Open Source Contributor | Lifelong Learner</h3>
 
